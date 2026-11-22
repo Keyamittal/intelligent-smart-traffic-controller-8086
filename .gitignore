@@ -1,0 +1,8 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# emu8086 compiled binaries (optional if keeping source only)
+*.com
+*.bin
+*.exe
